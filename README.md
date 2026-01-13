@@ -1,12 +1,55 @@
-- 👋 Hi, I’m @Kratichallenger713
-- 👀 I’m interested in listening song
-- 🌱 I’m currently learning  C++ programming language
-- 💞️ I’m looking to collaborate on projects 
-- 📫 How to reach me bkratika936@gmail.com
-- 😄 Pronouns: kratika Bathav
-- ⚡ Fun fact: ...
+## Hi, I'm Kratika Bathav 👋  
 
-<!---
-Kratichallenger713/Kratichallenger713 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Third-year B.Tech student in **Artificial Intelligence & Machine Learning (AIML)**  
+🏫 Madhav Institute of Technology & Science  
+💻 Mern-Stack developer with a strong interest in building practical, scalable web applications  
+
+---
+
+### 🚀 Tech Stack
+
+**Languages**
+- C++
+- JavaScript
+- Python
+
+**Frontend**
+- HTML5  
+- CSS3  
+- Bootstrap  
+- React.js  
+
+**Backend**
+- Node.js  
+- Express.js  
+
+**Database**
+- MongoDB  
+
+**Other**
+- Git & GitHub  
+- REST APIs  
+
+---
+
+### 🧠 What I’m Working On
+- Full-stack MERN projects with real-world use cases  
+- Strengthening problem-solving skills using **C++**  
+- Exploring AI/ML concepts alongside web development  
+
+---
+
+### 🤝 Open to Collaboration
+- MERN stack projects  
+- Web applications with meaningful impact  
+- Beginner-friendly AI/ML integrations  
+
+---
+
+### 📫 Connect With Me
+- Email: **bkratika936@gmail.com**  
+- LinkedIn: [Kratika Bathav](https://www.linkedin.com/in/kratika-bathav-b09426298)
+
+---
+
+⚡ *I believe in learning by building, breaking, and rebuilding—cleaner and smarter every time.*
