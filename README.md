@@ -1,4 +1,4 @@
-## Hi, I'm Gaddhu Prasad 👋  
+## Hi, I'm Kratika Bathav 👋  
 
 🎓 Third-year B.Tech student in **Artificial Intelligence & Machine Learning (AIML)**  
 🏫 Madhav Institute of Technology & Science  
