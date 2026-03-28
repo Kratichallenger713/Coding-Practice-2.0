@@ -1,0 +1,24 @@
+class Solution {
+public:
+    int matrixSum(vector<vector<int>>& nums) {
+        int m = nums.size();
+        int n = nums[0].size();
+        
+        // Step 1: sort each row
+        for (int i = 0; i < m; i++) {
+            sort(nums[i].begin(), nums[i].end());
+        }
+        
+        int sum = 0;
+        
+        // Step 2: take column-wise max
+        for (int j = 0; j < n; j++) {
+            int maxi = 0;
+            for (int i = 0; i < m; i++) {
+                maxi = max(maxi, nums[i][j]);
+            }
+            sum += maxi;
+        } 
+        return sum;
+    }
+};
