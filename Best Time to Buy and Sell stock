@@ -7,4 +7,5 @@ int maxprofit = 0;
             }
             bestbuy = min(bestbuy, prices[i]);
         }
+
         return maxprofit;
